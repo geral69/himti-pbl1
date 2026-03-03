@@ -54,6 +54,9 @@ body{
     /* font-family: Poppins; */
     font-weight: 600;
     gap: 10px;
+
+    position: relative;
+    z-index: 2;
 }
 
 #foo {
@@ -86,5 +89,9 @@ body{
     max-width: 1728px;
     height: auto;
     margin-top: -100px;
+    margin-bottom: -70px;
+
+    position: relative;
+    z-index: 1;
 }
 
