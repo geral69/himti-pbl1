@@ -23,4 +23,4 @@ Website ini dikembangkan menggunakan pendekatan berbasis komponen (*section-base
 ## Kontributor Tim
 * **Gerald Samuel Martadinata** - [@geral69](https://github.com/geral69)
 * **Wilson Khosasi** - [@wilson-khosasi](https://github.com/wilson-khosasi)
-* **Wayne Winson Tjoe**
+* **Wayne Winson Tjoe** - .[@waynee7711].(https://github.com/waynee7711) 
